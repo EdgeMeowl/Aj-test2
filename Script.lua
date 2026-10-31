@@ -1,4 +1,4 @@
-(getgenv and getgenv() or _G).McNuggetsAJKey = "1Y5ur4PcLPgODXktKifSx_5o2gyzchwYAf1mW55u7U0"
+(getgenv and getgenv() or _G).McNuggetsAJKey = "gDs8elGYtlYSgk8QjqIyul5lMVix0NuYR45xSEkgZeM"
 local function leaked_by_32e4_bindClosure(leaked_by_32e4_fn, leaked_by_32e4_captured)
     return function(...) return leaked_by_32e4_fn(leaked_by_32e4_captured, ...) end
 end
